@@ -1,0 +1,141 @@
+
+.font1{
+	color: black;
+    font-family:Verdana;
+	font-size: 30px;
+	font-weight: bold;
+}
+.font2{
+	color: black;
+    font-family:Verdana;
+	font-size: 20px;
+	font-style: italic;
+}
+.font3{
+	color: black;
+    font-family:Verdana;
+	font-size: 20px;
+	font-style: normal;
+}
+.base{
+	width: 1300px;
+	height: 1500px;
+	padding: 10px;
+	border:5px solid grey;
+}
+.header{
+	width: 99%;
+	height: 10%;
+	padding: 10px;
+	border:3px ;
+	border-bottom-style:solid ;
+	border-bottom-color:grey;
+}
+.block{
+	display: block;
+    padding: 5px;
+}
+.block1{
+	display: inline-block;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.column {
+    display: inline-block;
+    vertical-align: bottom;
+    margin-right: 200px;
+    padding: 10px;
+
+    
+}
+
+.first{
+	float:left;
+	width: 40%;
+	height: 78%;
+	padding: 10px;
+	border:5px ;
+	
+}
+.second{
+	float:initial;
+	width: 50%;
+	height: 78%;
+	padding: 10px;
+	border:5px ;
+	vertical-align: right;
+	margin-left: 45%;
+	
+}
+.photo{
+	width: 400px;
+	height: 400px;
+
+}
+.cell{
+	width: 200px;
+	height: 20px;
+	background-color:yellow;
+	color: black;
+    font-family:Verdana;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.skill{
+	width: 300px;
+	height: 25px;
+	margin-bottom: 5px;
+	font-family:Verdana;
+	font-size: 20px;
+
+}
+.levelskill{
+	width: 300px;
+	height: 15px;
+	margin-bottom: 5px;
+	font-family:Verdana;
+	font-size: 20px;
+	border:2px solid grey;
+}
+.lvlCommunication{
+	background-image: linear-gradient(to right, grey 70%, transparent 30%);
+}
+.lvlCreative{
+	background-image: linear-gradient(to right, grey 75%, transparent 25%);
+
+}
+.lvlTeamwork{
+	background-image: linear-gradient(to right, grey 70%, transparent 30%);
+
+}
+.lvlOrganiz{
+	background-image: linear-gradient(to right, grey 90%, transparent 10%);
+
+}
+.lvlLider{
+	background-image: linear-gradient(to right, grey 60%, transparent 40%);
+
+}
+.lvlTeamplayer{
+	background-image: linear-gradient(to right, grey 80%, transparent 20%);
+
+}
+.lvlPhotoshop{
+	background-image: linear-gradient(to right, grey 50%, transparent 50%);
+
+}
+.lvlCSS{
+	background-image: linear-gradient(to right, grey 70%, transparent 30%);
+
+}
+
+
+.End{
+	width: 1290px;
+	height: 100px;
+	margin-bottom: 5px;
+	background: yellow;
+}
+
