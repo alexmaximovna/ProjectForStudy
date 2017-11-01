@@ -1,0 +1,142 @@
+
+
+body{
+	color: #000000;
+    font-family:Century Gothic;
+    font-size: 31px;
+}
+
+.font-bold{
+	font-weight: 600px;
+}
+
+
+.header{
+
+	display: block;
+	padding: 10px;
+	border:2px  ;
+	border-color: #dcddde;
+	border-bottom-style:solid; 
+}
+.header__name{
+	font-size: 92px;
+}
+.header__profession{
+	font-size: 50px;
+}
+.header__more-info{
+	font-size: 31px;
+}
+
+
+
+.leftblock{
+	display: inline-block;
+	width: 50%;
+	height: 90%;
+	padding: 5px;
+	vertical-align: top;
+}
+.leftblock__photo{
+	width: 780px;
+	height: 640px;
+	
+}
+	
+.rightblock{
+	display: inline-block;
+	width: 45%;
+	height: 100%;
+	padding: 10px;
+	vertical-align:top;
+	
+	
+}.rightblock__year{
+	display: block;
+	padding: 5px;
+ 	margin-right:5px;
+   
+}
+.rightblock__description{
+
+	display: inline-block;
+    padding: 5px;
+    margin-bottom: 5px;
+    vertical-align: top;
+}
+
+.rightblock__name{
+    display: block;
+	padding: 5px;
+ 	margin-right:5px;
+ 	font-weight: 200;
+}
+
+.description-item{
+	
+	height: 70px;
+	display: inline-block;
+	background-color:#f3c915;
+	padding:20px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	margin-right: 250px;
+	font-size: 42px;
+	font-weight: 400;
+}
+
+.skill{
+	display:block;
+	padding: 5px;
+   margin-bottom: 5px;
+	
+}
+.bar{
+	width: 620px;
+	height: 30px;
+	margin-bottom: 5px;
+	border:2px solid #dcddde;
+}
+.bar__progress{
+	height: 31px;
+	width: 100%;
+	background-color: #dcddde;
+
+}
+.bar__progress_lvl-comm{
+	width: 70%;
+	
+}
+.bar__progress_lvl-creat{
+	width: 60%;
+}
+.bar__progress_lvl-teamwork{
+	width: 80%;
+}
+.bar__progress_lvl-lider{
+	width: 70%;
+}
+.bar__progress_lvl-organiz{
+	width: 90%;
+}
+.bar__progress_lvl-player{
+	width: 80%;
+}
+.bar__progress_lvl-photosh{
+	width: 50%;
+}
+.bar__progress_lvl-css{
+	
+width: 50%;
+}
+
+
+.footer{
+	display: block;
+	height: 70px;
+	margin-top: 5px;
+	background: #f3c915;
+}
+
+
